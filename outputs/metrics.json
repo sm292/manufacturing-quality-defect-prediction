@@ -1,0 +1,21 @@
+{
+    "accuracy": 0.945859872611465,
+    "balanced_accuracy": 0.5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1_score": 0.0,
+    "roc_auc": 0.687858981976629,
+    "decision_threshold": 0.23000000000000004,
+    "validation_f1_score": 0.2857142857142857,
+    "train_rows": 1253,
+    "validation_rows": 251,
+    "test_rows": 314,
+    "sensor_features": 590,
+    "failure_rate": 0.06636885768985322,
+    "test_failures": 17,
+    "test_passes": 297,
+    "true_negatives": 297,
+    "false_positives": 0,
+    "false_negatives": 17,
+    "true_positives": 0
+}
